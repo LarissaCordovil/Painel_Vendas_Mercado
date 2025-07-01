@@ -1,5 +1,5 @@
 import pandas as pd
-from Painel_Vendas_Mercado.conexao import conectar_banco
+from database.conexao import conectar_banco
 
 def consultar_total_vendas(data_inicio, data_fim):
     con = conectar_banco()

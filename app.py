@@ -3,7 +3,7 @@ import streamlit as st
 from datetime import datetime, timedelta
 import io
 import altair as alt
-from Painel_Vendas_Mercado.conexao import conectar_banco
+from database.conexao import conectar_banco
 from consultas.consultas import consultar_total_vendas
 
 # Título do painel
