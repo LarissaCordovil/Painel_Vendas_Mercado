@@ -1,4 +1,4 @@
-# 📊 Painel de Vendas - Sistema Dynamis
+# 📊 Painel de Vendas - Sistema Dynamis(Em Desenvolvimento)
 
 Projeto de painel interativo criado com **Python** e **Streamlit**, que se conecta a uma base de dados **Firebird** para exibir indicadores de vendas diárias. Desenvolvido com dados reais, utilizado em um mercado.
 
